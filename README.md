@@ -1,1 +1,1 @@
-#Greetings! I'm Justin a solo dev featuring my projects!
+trying out my first repo
